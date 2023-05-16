@@ -1,0 +1,17 @@
+/home/romulo/.programming/c#/aleatorio/API/obj/Debug/net6.0/API.csproj.AssemblyReference.cache
+/home/romulo/.programming/c#/aleatorio/API/obj/Debug/net6.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/home/romulo/.programming/c#/aleatorio/API/obj/Debug/net6.0/API.AssemblyInfoInputs.cache
+/home/romulo/.programming/c#/aleatorio/API/obj/Debug/net6.0/API.AssemblyInfo.cs
+/home/romulo/.programming/c#/aleatorio/API/obj/Debug/net6.0/API.csproj.CoreCompileInputs.cache
+/home/romulo/.programming/c#/aleatorio/API/bin/Debug/net6.0/API
+/home/romulo/.programming/c#/aleatorio/API/bin/Debug/net6.0/API.deps.json
+/home/romulo/.programming/c#/aleatorio/API/bin/Debug/net6.0/API.runtimeconfig.json
+/home/romulo/.programming/c#/aleatorio/API/bin/Debug/net6.0/API.dll
+/home/romulo/.programming/c#/aleatorio/API/bin/Debug/net6.0/ref/API.dll
+/home/romulo/.programming/c#/aleatorio/API/bin/Debug/net6.0/API.pdb
+/home/romulo/.programming/c#/aleatorio/API/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/romulo/.programming/c#/aleatorio/API/obj/Debug/net6.0/API.csproj.CopyComplete
+/home/romulo/.programming/c#/aleatorio/API/obj/Debug/net6.0/API.dll
+/home/romulo/.programming/c#/aleatorio/API/obj/Debug/net6.0/ref/API.dll
+/home/romulo/.programming/c#/aleatorio/API/obj/Debug/net6.0/API.pdb
+/home/romulo/.programming/c#/aleatorio/API/obj/Debug/net6.0/API.genruntimeconfig.cache
