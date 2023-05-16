@@ -1,0 +1,17 @@
+/home/romulo/.programming/c#/APIs/DDD/obj/Debug/net6.0/DDD.csproj.AssemblyReference.cache
+/home/romulo/.programming/c#/APIs/DDD/obj/Debug/net6.0/DDD.GeneratedMSBuildEditorConfig.editorconfig
+/home/romulo/.programming/c#/APIs/DDD/obj/Debug/net6.0/DDD.AssemblyInfoInputs.cache
+/home/romulo/.programming/c#/APIs/DDD/obj/Debug/net6.0/DDD.AssemblyInfo.cs
+/home/romulo/.programming/c#/APIs/DDD/obj/Debug/net6.0/DDD.csproj.CoreCompileInputs.cache
+/home/romulo/.programming/c#/APIs/DDD/bin/Debug/net6.0/DDD
+/home/romulo/.programming/c#/APIs/DDD/bin/Debug/net6.0/DDD.deps.json
+/home/romulo/.programming/c#/APIs/DDD/bin/Debug/net6.0/DDD.runtimeconfig.json
+/home/romulo/.programming/c#/APIs/DDD/bin/Debug/net6.0/DDD.dll
+/home/romulo/.programming/c#/APIs/DDD/bin/Debug/net6.0/ref/DDD.dll
+/home/romulo/.programming/c#/APIs/DDD/bin/Debug/net6.0/DDD.pdb
+/home/romulo/.programming/c#/APIs/DDD/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/romulo/.programming/c#/APIs/DDD/obj/Debug/net6.0/DDD.csproj.CopyComplete
+/home/romulo/.programming/c#/APIs/DDD/obj/Debug/net6.0/DDD.dll
+/home/romulo/.programming/c#/APIs/DDD/obj/Debug/net6.0/ref/DDD.dll
+/home/romulo/.programming/c#/APIs/DDD/obj/Debug/net6.0/DDD.pdb
+/home/romulo/.programming/c#/APIs/DDD/obj/Debug/net6.0/DDD.genruntimeconfig.cache
